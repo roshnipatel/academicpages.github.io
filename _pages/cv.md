@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Genetics, Stanford University, 2023 (expected)
+* B.A. in Molecular and Cellular Biology, University of California Berkeley, 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D. Candidate in [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-present
+  * Developing statistical models to test for heterogeneity in causal variant effect sizes across human populations.
+* Undergraduate researcher in [Brenner Lab](https://compbio.berkeley.edu/) at U.C. Berkeley, Fall 2015-Spring 2018 
+  * Developed and validated machine learning approaches for predicting Mendelian disease phenotypes from rare genetic variation.
+  * Received fully funded summer research through the Undergraduate Research Apprenticeship Program Summer Fellowship.
+* Researcher at Lawrence Livermore National Laboratory, Summer 2016
+  * Developed GeneSurprise, a Python tool to profile the genome of a bacterial strain and assess the implications for bioterrorism.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Service and leadership
+======
+* *Co-vice president of [BioJam](https://biojamcamp.weebly.com/)*, January 2021-present
+  * I co-design and oversee a year-long academic program that engages teens from marginalized communities in the Bay Area to explore biodesign and bioengineering through their own culture and creativity. 
+* *Co-lead of [The Genetics Advocacy Committee](https://med.stanford.edu/genetics/life/dei.html)*, June 2020-present
+  * I manage six different trainee-led initiatives to increase diversity, equity, inclusion, and justice in the Stanford Genetics department, ranging from diversifying graduate admissions to increasing ethics education for graduate students. I also work with faculty and staff to secure department support and funding for these initiatives.
+* *Co-founder of Stanford Science Justice Reading Group*, January 2019-January 2020
+  * I organized a monthly forum for graduate students and postdocs to think critically about science and scientific institutions, with the ultimate goal of understanding how to improve diversity and inclusion in academia.
+ 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *Edward M. Blount Award*, U.C. Berkeley, 2018
+  * "awarded to the student with the highest academic achievement in Genetics, Genomics, and Development"
+* *Graduation with Highest Distinction in General Scholarship*, U.C. Berkeley, 2018
+
+<!---
+Talks
+======
+* Pritchard Lab Past and Present Mini-Conference, June 3rd 2021
 
 Publications
 ======
@@ -47,13 +61,4 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
