@@ -26,11 +26,11 @@ Research experience
 
 Service and leadership
 ======
-* *Co-vice president of [BioJam](https://biojamcamp.weebly.com/)*, January 2021-present
+* Co-vice president of [BioJam](https://biojamcamp.weebly.com/)*, Jan 2021-present
   * I co-design and oversee a year-long academic program that engages teens from marginalized communities in the Bay Area to explore biodesign and bioengineering through their own culture and creativity. 
-* *Co-lead of [The Genetics Advocacy Committee](https://med.stanford.edu/genetics/life/dei.html)*, June 2020-present
+* Co-lead of [The Genetics Advocacy Committee](https://med.stanford.edu/genetics/life/dei.html)*, Jun 2020-present
   * I manage six different trainee-led initiatives to increase diversity, equity, inclusion, and justice in the Stanford Genetics department, ranging from diversifying graduate admissions to increasing ethics education for graduate students. I also work with faculty and staff to secure department support and funding for these initiatives.
-* *Co-founder of Stanford Science Justice Reading Group*, January 2019-January 2020
+* Co-founder of Stanford Science Justice Reading Group, Jan 2019-Jan 2020
   * I organized a monthly forum for graduate students and postdocs to think critically about science and scientific institutions, with the ultimate goal of understanding how to improve diversity and inclusion in academia.
  
 Teaching
@@ -41,9 +41,9 @@ Teaching
   
 Awards
 ======
-* *Edward M. Blount Award*, U.C. Berkeley, 2018
+* Edward M. Blount Award, U.C. Berkeley, 2018
   * "awarded to the student with the highest academic achievement in Genetics, Genomics, and Development"
-* *Graduation with Highest Distinction in General Scholarship*, U.C. Berkeley, 2018
+* Graduation with Highest Distinction in General Scholarship, U.C. Berkeley, 2018
 
 <!---
 Talks
