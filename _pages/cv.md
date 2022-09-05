@@ -17,12 +17,29 @@ Education
 Research experience
 ======
 * Ph.D. Candidate in [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-present
-  * Developing statistical models to test for heterogeneity in causal variant effect sizes across human populations.
+  * Developing methods for statistical and population genetic analyses of human data.
 * Undergraduate researcher in [Brenner Lab](https://compbio.berkeley.edu/) at U.C. Berkeley, Fall 2015-Spring 2018 
-  * Developed and validated machine learning approaches for predicting Mendelian disease phenotypes from rare genetic variation.
+  * Developed and validated computational models for predicting Mendelian disease phenotypes from rare genetic variation.
   * Received fully funded summer research through the Undergraduate Research Apprenticeship Program Summer Fellowship.
 * Researcher at Lawrence Livermore National Laboratory, Summer 2016
-  * Developed GeneSurprise, a Python tool to profile the genome of a bacterial strain and assess the implications for bioterrorism.
+  * Implemented software to identify bacterial virulence genes from a sequenced metagenomic sample.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Presentations
+======
+* “Expanding ethics education for trainees: creating and evaluating a course on genetics, ethics, and society”
+ * American Society of Human Genetics Conference, 2022 (poster)
+ * Stanford Center for Biomedical Ethics Seminar Series, 2022 (talk)
+* “Genetic interactions drive heterogeneity in causal variant effect sizes for gene expression and complex traits”
+ * Variant Effects Seminar Series, 2022 (talk)
+ * Population, Evolutionary, and Quantitative Genetics Conference, 2022 (talk)
+ * Cohort for Heart and Aging Research in Genomic Epidemiology Conference, 2022 (poster)
+ * Center for Admixed Populations and Health Equity, 2022 (talk)
 
 Service and leadership
 ======
@@ -35,27 +52,19 @@ Service and leadership
  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Awards
 ======
+* Stanford Center for Computational, Evolutionary, and Human Genetics Predoctoral Fellowship, 2022
 * Edward M. Blount Award, U.C. Berkeley, 2018
   * "awarded to the student with the highest academic achievement in Genetics, Genomics, and Development"
 * Graduation with Highest Distinction in General Scholarship, U.C. Berkeley, 2018
 
 <!---
-Talks
-======
-* Pritchard Lab Past and Present Mini-Conference, June 3rd 2021
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
