@@ -8,7 +8,7 @@ date: 2022-05-01
 location: "Stanford, CA"
 ---
 
-I am co-leading a team of graduate students and postdocs in designing a course on Genetics, Ethics, and Society for researchers in genetics and related fields. I am currently developing curriculum for the course and will be a primary course instructor when the three-week pilot course is offered in Spring 2022. We are generously funded by a $25,000 grant from the [Ethics, Society, and Technology Hub](https://ethicsinsociety.stanford.edu/ethics-society-technology-hub) at Stanford.
+I am co-leading a team of graduate students and postdocs in designing a course on [Genetics, Ethics, and Society](https://stanford-genethics.github.io/) for researchers in genetics and related fields. I am currently developing curriculum for the course and will be a primary course instructor when the three-week pilot course is offered in Spring 2022. We are generously funded by a $25,000 grant from the [Ethics, Society, and Technology Hub](https://ethicsinsociety.stanford.edu/ethics-society-technology-hub) at Stanford.
 
 Course description
 ======
