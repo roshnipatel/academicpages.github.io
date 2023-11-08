@@ -32,14 +32,20 @@ Publications
 
 Presentations
 ======
+* “The impact of selection on the genetic architecture of complex traits”
+  * Center for Admixed Populations and Health Equity, 2023 (invited talk)
+  * Stanford Center for Genomics and Precision Medicine, 2023 (invited talk)
+  * Department of Genetics, Stanford University, 2023 (talk)
+* “The other impact factor: reasoning through the social and ethical implications of genetics research”
+  * Department of Biomedical Informatics, Stanford University, 2022 (invited talk)
 * “Expanding ethics education for trainees: creating and evaluating a course on genetics, ethics, and society”
- * American Society of Human Genetics Conference, 2022 (poster)
- * Stanford Center for Biomedical Ethics Seminar Series, 2022 (talk)
+  * American Society of Human Genetics Conference, 2022 (poster)
+  * Stanford Center for Biomedical Ethics Seminar Series, 2022 (invited talk)
 * “Genetic interactions drive heterogeneity in causal variant effect sizes for gene expression and complex traits”
- * Variant Effects Seminar Series, 2022 (talk)
- * Population, Evolutionary, and Quantitative Genetics Conference, 2022 (talk)
- * Cohort for Heart and Aging Research in Genomic Epidemiology Conference, 2022 (poster)
- * Center for Admixed Populations and Health Equity, 2022 (talk)
+  * Variant Effects Seminar Series, 2022 (invited talk)
+  * Population, Evolutionary, and Quantitative Genetics Conference, 2022 (talk)
+  * Cohort for Heart and Aging Research in Genomic Epidemiology Conference, 2022 (poster)
+  * Center for Admixed Populations and Health Equity, 2022 (invited talk)
 
 Service and leadership
 ======
