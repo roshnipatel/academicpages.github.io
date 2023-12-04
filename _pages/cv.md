@@ -32,6 +32,9 @@ Publications
 
 Presentations
 ======
+* “Population genetics models of complex trait variation”
+  * Bay Area Population Genomics Conference, 2023 (talk)
+  * Center for Admixed Populations and Health Equity, 2023 (invited talk)
 * “The impact of selection on the genetic architecture of complex traits”
   * Center for Admixed Populations and Health Equity, 2023 (invited talk)
   * Stanford Center for Genomics and Precision Medicine, 2023 (invited talk)
