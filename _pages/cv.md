@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Genetics, Stanford University, 2023 (expected)
+* Ph.D in Genetics, Stanford University, 2024
 * B.A. in Molecular and Cellular Biology, University of California Berkeley, 2018
 
 Research experience
 ======
-* Ph.D. Candidate in [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-present
+* Graduate researcher in [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-Summer 2024
   * Developing methods for statistical and population genetic analyses of human data.
 * Undergraduate researcher in [Brenner Lab](https://compbio.berkeley.edu/) at U.C. Berkeley, Fall 2015-Spring 2018 
   * Developed and validated computational models for predicting Mendelian disease phenotypes from rare genetic variation.
@@ -32,6 +32,10 @@ Publications
 
 Presentations
 ======
+* “Complex trait architecture across populations: opportunities and considerations”
+  * Emerging Genomic Scientist Symposium, University of California Los Angeles, 2024 (talk)
+* “Population genetics perspectives on complex trait architecture across populations”
+  * Probabilistic Modeling in Genomics (ProbGen) Conference, 2024 (talk)
 * “Population genetics models of complex trait variation”
   * Bay Area Population Genomics Conference, 2023 (talk)
   * Center for Admixed Populations and Health Equity, 2023 (invited talk)
@@ -53,9 +57,9 @@ Presentations
 Service and leadership
 ======
 * Co-vice president of [BioJam](https://biojamcamp.weebly.com/), 2021-2023
-  * I co-design and oversee a year-long academic program that engages teens from marginalized communities in the Bay Area to explore biodesign and bioengineering through their own culture and creativity. 
+  * I co-designed and oversaw a year-long academic program that engages teens from marginalized communities in the Bay Area to explore biodesign and bioengineering through their own culture and creativity. 
 * Co-lead of [The Genetics Advocacy Committee](https://med.stanford.edu/genetics/life/dei.html), 2020-2022
-  * I manage six different trainee-led initiatives to increase diversity, equity, inclusion, and justice in the Stanford Genetics department, ranging from diversifying graduate admissions to increasing ethics education for graduate students. I also work with faculty and staff to secure department support and funding for these initiatives.
+  * I managed six different trainee-led initiatives to increase diversity, equity, inclusion, and justice in the Stanford Genetics department, ranging from diversifying graduate admissions to increasing ethics education for graduate students. I also worked with faculty and staff to secure department support and funding for these initiatives.
 * Co-founder of Stanford Science Justice Reading Group, 2019-2020
   * I organized a monthly forum for graduate students and postdocs to think critically about science and scientific institutions, with the ultimate goal of understanding how to improve diversity and inclusion in academia.
  
@@ -67,6 +71,7 @@ Teaching
   
 Awards
 ======
+* UCLA Emerging Genomic Scientist Fellow, 2024
 * Stanford Student Award for Excellence in Teaching, 2023
 * Stanford Center for Computational, Evolutionary, and Human Genetics Predoctoral Fellowship, 2022
 * Edward M. Blount Award, U.C. Berkeley, 2018
