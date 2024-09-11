@@ -16,9 +16,10 @@ Education
 
 Research experience
 ======
-* Graduate researcher in [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-Summer 2024
+* Postdoctoral scholar with [Doc Edge](https://edgepopgen.github.io/edgelab/) at USC, Summer 2024 onwards
+* Graduate researcher with [Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford, Spring 2019-Summer 2024
   * Developing methods for statistical and population genetic analyses of human data.
-* Undergraduate researcher in [Brenner Lab](https://compbio.berkeley.edu/) at U.C. Berkeley, Fall 2015-Spring 2018 
+* Undergraduate researcher with [Steven Brenner](https://compbio.berkeley.edu/) at U.C. Berkeley, Fall 2015-Spring 2018 
   * Developed and validated computational models for predicting Mendelian disease phenotypes from rare genetic variation.
   * Received fully funded summer research through the Undergraduate Research Apprenticeship Program Summer Fellowship.
 * Researcher at Lawrence Livermore National Laboratory, Summer 2016
